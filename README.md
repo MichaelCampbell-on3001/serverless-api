@@ -3,7 +3,7 @@ Lab 18 serverless-api
 ### Author: Michael Campbell
 
 #### Description: 
-Create a single resource REST API using a domain model of your choosing, constructed using AWS Cloud Services
+Create a **single resource REST API** using a domain model of your choosing, constructed using **AWS Cloud Services**.
 
 Featured tasks:
 ### Task 1:
@@ -28,4 +28,4 @@ AWS: API, Dynamo and Lambda
 #### UML
 (created with [invisionApp](https://invisionapp.com/) )
 
-![UML](labclass18UML.PNG)
+![UML](labclass18UML.png)
