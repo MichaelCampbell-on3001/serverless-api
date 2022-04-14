@@ -33,3 +33,6 @@ AWS: API, Dynamo and Lambda
 (created with [invisionApp](https://invisionapp.com/) )
 
 ![UML](labclass18UML.png)
+
+#### [Pull Request](https://github.com/MichaelCampbell-on3001/serverless-api/pull/1)
+
