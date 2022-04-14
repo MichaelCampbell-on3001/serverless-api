@@ -17,10 +17,14 @@ Featured tasks:
   - Routes should integrate with the appropriate Lambda function to perform the operation
 
 ### Setup
-Root URL to your API:
-Routes:
-Required inputs:
-Returned outputs:
+Root URL to your API: [Root URL](https://2veauxjvre.execute-api.us-west-2.amazonaws.com)
+Routes: 
+- /person/add
+- /person/delete 
+- /person/update
+Required inputs: Name ('String') Hobby ('String')
+Returned outputs: "Hello, $('User'), are you interested in learning more about $('Hobby')"?
+Input is two strings and the output is a string returning the same input.
 
 **Dependencies:**
 AWS: API, Dynamo and Lambda
