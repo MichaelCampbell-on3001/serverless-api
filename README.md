@@ -23,7 +23,7 @@ Routes:
 - /person/delete 
 - /person/update
 Required inputs: Name ('String') Hobby ('String')
-Returned outputs: "Hello, $('User'), are you interested in learning more about $('Hobby')"?
+Returned outputs: "Hello, ('User'), are you interested in learning more about ('Hobby')"?
 Input is two strings and the output is a string returning the same input.
 
 **Dependencies:**
